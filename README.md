@@ -14,6 +14,10 @@
 
 </br>
 
+## Essay
+
+</br>
+
 ## Text Book
 
 - [Deep Learning with Python(Second Edition), François Chollet](https://search.shopping.naver.com/book/catalog/34106017621)
