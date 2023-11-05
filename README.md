@@ -9,16 +9,26 @@
 ## Concept
 
 - [DNN](https://velog.io/@jayarnim/DNN)
-  - [Activation Function](https://velog.io/@jayarnim/Activation-Function)
-  - [Optimizer](https://velog.io/@jayarnim/Optimizer)
 
-- TensorFlow & Keras
-  - [Outline]()
-  - [Tensor]()
-  - [Layer]()
-  - [Modeling]()
-  - [e.t.c.]()
-  - [Example]()
+- [Activation Function](https://velog.io/@jayarnim/Activation-Function)
+
+- [Optimizer](https://velog.io/@jayarnim/Optimizer)
+
+</br>
+
+## Skills
+
+- [Outline]()
+
+- [Tensor]()
+
+- [Layer]()
+
+- [Modeling]()
+
+- [e.t.c.]()
+
+- [Example]()
 
 </br>
 
