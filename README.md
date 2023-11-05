@@ -18,7 +18,6 @@
   - [Layer]()
   - [Modeling]()
   - [e.t.c.]()
-  - [Overfitting]()
 
 </br>
 
