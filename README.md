@@ -8,13 +8,16 @@
 
 ## Concept
 
-</br>
+- [DNN](https://velog.io/@jayarnim/DNN)
+  - [Activation Function](https://velog.io/@jayarnim/Activation-Function)
+  - [Optimizer](https://velog.io/@jayarnim/Optimizer)
 
-## Assignment
-
-</br>
-
-## Essay
+- TensorFlow & Keras
+  - [Tensor]()
+  - [Layer]()
+  - [Modeling]()
+  - [e.t.c.]()
+  - [Overfitting]()
 
 </br>
 
