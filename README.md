@@ -14,6 +14,10 @@
 
 - [Optimizer](https://velog.io/@jayarnim/Optimizer)
 
+- [CNN]()
+
+- [RNN]()
+
 </br>
 
 ## Skills
@@ -31,6 +35,10 @@
 - [Overfitting]()
 
 - [Example]()
+
+</br>
+
+## Project
 
 </br>
 
