@@ -26,13 +26,13 @@
 
 - [Outline]()
 
-- [Tensor]()
+- [Tensor](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/1_Tensor.ipynb)
 
-- [Layer]()
+- [Layer](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/2_Layer.ipynb)
 
-- [Modeling]()
+- [Modeling](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/3_Modeling.ipynb)
 
-- [Workflow]()
+- [Workflow](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/4_Workflow.ipynb)
 
 - [Overfitting]()
 
