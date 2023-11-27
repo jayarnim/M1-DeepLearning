@@ -22,6 +22,8 @@
 
 ## Skills
 
+### DNN
+
 - [Outline]()
 
 - [Tensor]()
@@ -34,7 +36,9 @@
 
 - [Overfitting]()
 
-- [Example]()
+### CNN
+
+### RNN
 
 </br>
 
