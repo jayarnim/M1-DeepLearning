@@ -14,7 +14,7 @@
 
 - [Optimizer](https://velog.io/@jayarnim/Optimizer)
 
-- [CNN]()
+- [CNN](https://velog.io/@jayarnim/CNN)
 
 - [RNN]()
 
@@ -24,8 +24,6 @@
 
 ### DNN
 
-- [Outline]()
-
 - [Tensor](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/1_Tensor.ipynb)
 
 - [Layer](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/2_Layer.ipynb)
@@ -34,15 +32,31 @@
 
 - [Workflow](https://github.com/jayarnim/M1-DeepLearning/blob/main/skills/4_Workflow.ipynb)
 
-- [Overfitting]()
+- [Prevent Overfitting]()
 
 ### CNN
 
+- [CNN]()
+
+- [Prevent Overfitting]()
+
 ### RNN
+
+- [RNN]()
+
+- [Prevent Overfitting]()
 
 </br>
 
-## Project
+## Excercise
+
+- [Multi Classification Analysis]()
+
+- [Regression Analysis]()
+
+- [Image Analysis]()
+
+- [Time-Series Analysis]()
 
 </br>
 
