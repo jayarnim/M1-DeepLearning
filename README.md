@@ -16,7 +16,7 @@
 
 - [CNN](https://velog.io/@jayarnim/CNN)
 
-- [RNN]()
+- [RNN](https://velog.io/@jayarnim/RNN)
 
 </br>
 
